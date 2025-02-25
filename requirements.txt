@@ -1,0 +1,23 @@
+# Core Python Libraries
+os
+re
+xml.dom.minidom
+
+# LangChain Components
+langchain
+langchain_community
+langchain_text_splitters
+
+# PDF Processing
+pymupdf  # Alternative to PyPDFLoader (if needed)
+pypdf  # Required for PyPDFLoader
+
+# Embeddings & Vector Store
+sentence-transformers
+chromadb
+
+# LLM for Local Inference
+llama-cpp-python
+
+# General Utilities
+tqdm  # Optional, useful for progress bars
